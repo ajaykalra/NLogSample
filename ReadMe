@@ -1,3 +1,5 @@
 Nlog Sample showing how to create a custom target and use it to capture messages getting logged.
 
 More info is available here: 
+http://ajkalra.blogspot.com/2012/04/creating-custom-nlog-target.html
+
